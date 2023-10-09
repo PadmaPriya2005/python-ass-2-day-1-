@@ -1,0 +1,10 @@
+a=4
+b=22
+sum=a+b
+print(sum)
+sub=b-a
+print(sub)
+mul=a*b
+print(mul)
+div=b/a
+print(div)
